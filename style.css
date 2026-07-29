@@ -1,0 +1,29 @@
+﻿@font-face{
+    font-family:'Vazirmatn';
+    src:url('font/Vazirmatn-Regular.ttf');
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Vazirmatn',Tahoma,sans-serif;
+}
+
+body,
+input,
+button,
+textarea,
+select,
+label,
+a,
+p,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family:'Vazirmatn',Tahoma,sans-serif;
+}
